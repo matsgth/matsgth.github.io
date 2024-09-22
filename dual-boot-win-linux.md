@@ -1,4 +1,4 @@
-Linux（Proxmox VE）、Windows11 の dual boot ？
+# Linux（Proxmox VE）、Windows11 の dual boot ？
 
 これまで、VMware 製品には大変お世話になってきたが、ライセンス関連の話を聞き、今後、どうするか？考えてみた。
 
